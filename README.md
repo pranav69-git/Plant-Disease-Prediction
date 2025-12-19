@@ -62,7 +62,7 @@ The data analytics part of the project includes:
 These analytics help improve decision-making and model accuracy.
 
 📁 Project Structure
-``
+```text
 Plant-Disease-Prediction/
 │
 ├── dataset/                 # Plant disease dataset
@@ -71,7 +71,7 @@ Plant-Disease-Prediction/
 ├── scripts/                 # Python scripts
 ├── README.md                # Project documentation
 └── requirements.txt         # Required libraries
-``
+```
 
 ▶️ How to Run the Project
 
