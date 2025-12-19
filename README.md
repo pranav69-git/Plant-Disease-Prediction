@@ -1,4 +1,5 @@
 🌱 Plant Disease Prediction using Machine Learning & Data Analytics
+
 📌 Project Overview
 
 Plant diseases significantly affect agricultural productivity and food security. Early and accurate detection of plant diseases helps farmers take timely preventive measures and reduce crop losses.
